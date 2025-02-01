@@ -8,6 +8,11 @@
 - [sourcetree](https://www.sourcetreeapp.com/)
 - [postman]()
 
+### Terminal
+
+- [hyper](https://hyper.is/)
+
+
 ### Design
 
 - [ps]()
