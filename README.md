@@ -7,6 +7,10 @@
 - [git]()
 - [sourcetree](https://www.sourcetreeapp.com/)
 - [postman]()
+- [wireshark](https://www.wireshark.org/)
+- [xshell]()
+- [xftp]()
+
 
 ### Terminal
 
