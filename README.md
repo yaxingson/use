@@ -7,15 +7,16 @@
 - [git]()
 - [sourcetree](https://www.sourcetreeapp.com/)
 - [postman]()
+- [insomnia]()
 - [wireshark](https://www.wireshark.org/)
 - [xshell]()
 - [xftp]()
 
-
 ### Terminal
 
 - [hyper](https://hyper.is/)
-
+- [terminal]()
+- [git bash]()
 
 ### Design
 
