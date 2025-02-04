@@ -26,6 +26,7 @@
 ### Note
 
 - [typora]()
+- [xmind]()
 - [notion]()
 - [obsidian]()
 - [tana]()
