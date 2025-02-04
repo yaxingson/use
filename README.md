@@ -9,6 +9,8 @@
 - [postman]()
 - [insomnia]()
 - [wireshark](https://www.wireshark.org/)
+- [fiddler]()
+- [charles]()
 - [xshell]()
 - [xftp]()
 
